@@ -14,7 +14,6 @@ This project analyzes vendor and brand performance to improve profitability and 
 ## Structure
 - `data/` → Sample datasets (vendors, products, sales, inventory)  
 - `sql/` → Schema & analysis queries  
-- `notebooks/` → Python EDA notebook  
 - `reports/` → Insights & recommendations  
 
 ## Tech Stack
